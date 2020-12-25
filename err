@@ -1,0 +1,6 @@
+[pid 30287] write(3, "2020:09:10 08:14:10\n", 20) = 20
+[pid 30287] write(3, "fib 15 = 610\n", 13) = 13
+[pid 30287] +++ exited with 15 +++
+--- SIGCHLD {si_signo=SIGCHLD, si_code=CLD_EXITED, si_pid=30287, si_uid=10992, si_status=15, si_utime=0, si_stime=0} ---
+write(1, "my child exited with code: 15\n", 30) = 30
++++ exited with 0 +++
